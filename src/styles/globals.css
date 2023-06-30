@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'ramillas';
+    src: url('../../public/tt-ramillas/TT\ Ramillas\ Trial\ Black.ttf')
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
